@@ -1,3 +1,3 @@
 # cpp_Projects
 
-This repository contains projects ranged from Begginer level to Expert level.
+This repository contains projects while I am learning cpp
