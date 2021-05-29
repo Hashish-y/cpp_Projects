@@ -1,3 +1,7 @@
+/*C++ program for a bookshop inventory system
+If a customer purchases a book, the book's count will decrease; if a book is added, the same is updated 
+We can modify the code to add a book ID and make the search based on book ID and so on.. */
+
 #include <iostream>
 #include <string.h>
 #include <stdlib.h>
